@@ -62,7 +62,7 @@ p>a {
 
 article {
     font-family: 'sriracha';
-    font-size: 3vw;
+    font-size: 3.5vw;
     margin: auto;
 }
 
@@ -81,7 +81,7 @@ article>div {
 div#branco {
     background-image: url("imagens/Joaninha.jpg");
     border: 0.5px solid rgba(0, 0, 0, 0.247);
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-align: left;
     background-repeat: no-repeat;
     background-position: center center;
@@ -92,7 +92,7 @@ div#branco {
 div#branco2 {
     background-image: url("imagens/livro.jpg");
     border: 0.5px solid rgba(0, 0, 0, 0.247);
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-align: left;
     background-repeat: no-repeat;
     background-position: center center;
@@ -104,9 +104,8 @@ div#branco2 {
 p#branco {
     background-color: rgba(0, 0, 0, 0.705);
     color: white;
-    margin-right: 50%;
-    margin-left: 5px;
-    font-size: 3vw;
+    display: inline-block;
+    font-size: 3.5vw;
     padding: 1px;
     padding-left: 20px;
     line-height: 1.7;
@@ -117,9 +116,8 @@ p#branco {
 p#branco2 {
     background-color: rgba(0, 0, 0, 0.705);
     color: white;
-    margin-right: 50%;
-    margin-left: 5px;
-    font-size: 3vw;
+    display: inline-block;
+    font-size: 3.5vw;
     padding: 1px;
     padding-left: 20px;
     padding-bottom: 15px;
@@ -132,7 +130,7 @@ footer {
     color: white;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 3vw;
+    font-size: 20px;
     padding: 7px;
     font-weight: normal;
 }
