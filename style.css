@@ -78,7 +78,7 @@ article>div {
 
 div#branco {
     background-image: url("imagens/Joaninha.jpg");
-    border: 0.5px solid rgba(0, 0, 0, 0.247);
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.377);
     font-size: 3.5vw;
     text-align: left;
     background-repeat: no-repeat;
@@ -89,7 +89,7 @@ div#branco {
 
 div#branco2 {
     background-image: url("imagens/livro.jpg");
-    border: 0.5px solid rgba(0, 0, 0, 0.247);
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.377);
     font-size: 3.5vw;
     text-align: left;
     background-repeat: no-repeat;
